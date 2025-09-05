@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+requests = "^2.32.5"
+dotenv = "^0.9.9"
+pydantic = "^2.11.7"
 
 
 [build-system]
